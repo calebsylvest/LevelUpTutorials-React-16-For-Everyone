@@ -1,3 +1,35 @@
+# LevelUpTuturials: React 16 For Everyone
+
+[Video Series Link ↗](https://www.leveluptutorials.com/tutorials/react-16-for-everyone)
+
+---
+
+- [x] Introduction
+- [x] Create React App & Initial Files Explained
+- [x] Understanding & Creating Components
+- [x] Using Props
+- [x] State, Inline Conditionals & Basic Events
+- [x] LifeCycle Methods
+- [x] Using Refs To Access DOM Elements
+- [x] Inputs. Controlled vs Uncontrolled
+- [x] Iterating & Child Components
+- [x] static, defaultProps & propTypes
+- [ ] Fetching Data From An API & async await
+- [ ] React Developer Tools
+- [ ] Eslinting React & Why It Matters
+- [ ] Functional Stateless Components
+- [ ] Understanding React Router
+- [ ] Switch Routes & Route Params
+- [ ] Fetching Data With Our Route Params
+- [ ] Styled Components
+- [ ] Packages From NPM & React Overdrive
+- [ ] PureComponents
+- [ ] Inline Conditionals
+- [ ] Leaving Create React App
+- [ ] Where To Go From Here
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
